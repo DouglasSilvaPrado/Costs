@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "name": "projeto 2",
+      "budget": "17000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 3200,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "1200",
+          "description": "descrição serviço 1",
+          "id": "4bc6cdc9-aa8d-4b25-9abf-ccb7d3249d33"
+        },
+        {
+          "name": "serviço 2",
+          "cost": "2000",
+          "description": "descrição serviço 2",
+          "id": "c298c15f-f0a6-42e6-901e-d13708d533fc"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "projeto 3",
+      "budget": "30000",
+      "category": {
+        "id": "3",
+        "name": "Desingn"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Sistema WEB att",
+      "budget": "7000",
+      "category": {
+        "id": "3",
+        "name": "Desingn"
+      },
+      "cost": 4500,
+      "services": [
+        {
+          "name": "Dev PHP",
+          "cost": "3000",
+          "description": "Back End",
+          "id": "194d6cc0-f2f5-41e7-8af7-c70300dcffb1"
+        },
+        {
+          "name": "Desingn UX",
+          "cost": "1500",
+          "description": "Desingn",
+          "id": "65cf7abf-6a63-4cdd-a9ee-5be97ca11f76"
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Desingn"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
